@@ -8,7 +8,7 @@ Theme: 'Time'
 
 [ ] - HTML document laying out game screen
 
-[ ] - Import rot.js library and configure
+[ x ] - Import rot.js library and configure
 
 [ ] - display map, options box
 
