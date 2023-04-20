@@ -1,0 +1,14 @@
+{
+  "name": "gamedevjs-2023",
+  "version": "1.0.0",
+  "description": "For gamedev.js jam April 13-26, 2023",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rot-js": "^2.2.0"
+  }
+}
